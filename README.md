@@ -1,3 +1,7 @@
+# ARCHIVED
+
+This project stalled out and is no longer relevant.
+
 # Wrytedown plugin for Atom
 
 Experimental plugin for writing fiction using YAML, Markdown, and related
